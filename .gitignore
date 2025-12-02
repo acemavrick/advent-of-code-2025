@@ -4,6 +4,7 @@
 *.dat
 *.in
 *.txt
+.venv/
 
 # use ! to negate ignore rules
 # eg !explanation.txt
