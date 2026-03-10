@@ -5,6 +5,9 @@
 *.in
 *.txt
 .venv/
+.python-version
+pyproject.toml
+uv.lock
 
 # use ! to negate ignore rules
 # eg !explanation.txt
