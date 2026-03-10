@@ -8,6 +8,8 @@
 .python-version
 pyproject.toml
 uv.lock
+.swift-version
+.build
 
 # use ! to negate ignore rules
 # eg !explanation.txt

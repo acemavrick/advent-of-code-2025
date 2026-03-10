@@ -1,10 +1,8 @@
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Shubh_01_2 {
-    static void main() throws FileNotFoundException {
-        Scanner in = new Scanner(new File("day1-2.in"));
+    static void main() {
+        Scanner in = new Scanner(System.in);
         int dial = 50;
         int pwd = 0;
         while (in.hasNextLine()) {
